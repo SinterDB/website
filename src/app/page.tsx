@@ -286,7 +286,7 @@ for await (const user of cursor) {
                 </div>
 
                 <a
-                  href="https://github.com/SinterDB/sinterdb/blob/main/ROADMAP.md"
+                  href="https://github.com/SinterDB/sinterdb/blob/main/ROADMAP.md#007--updates-replacements-and-deletes"
                   target="_blank"
                   rel="noreferrer"
                   className="text-sm font-medium text-orange-400 transition hover:text-orange-300"
